@@ -388,7 +388,13 @@ def follow(ses,coki):
 	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
 
 logo = ("""\033[97;1m
-HIBA RAJPOOT     
+ ##     ## #### ########     ###    
+##     ##  ##  ##     ##   ## ##   
+##     ##  ##  ##     ##  ##   ##  
+#########  ##  ########  ##     ## 
+##     ##  ##  ##     ## ######### 
+##     ##  ##  ##     ## ##     ## 
+##     ## #### ########  ##     ##     
                       
    \033
 
